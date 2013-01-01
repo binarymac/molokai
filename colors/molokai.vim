@@ -1,4 +1,4 @@
-u" Vim color file
+" Vim color file
 "
 " Author: Tomas Restrepo <tomas@winterdom.com>
 "
