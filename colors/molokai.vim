@@ -1,4 +1,4 @@
-" Vim color file
+u" Vim color file
 "
 " Author: Tomas Restrepo <tomas@winterdom.com>
 "
@@ -133,8 +133,8 @@ if &t_Co > 255
       hi Normal                   ctermbg=234
       hi CursorLine               ctermbg=235   cterm=none
    else
-      hi Normal       ctermfg=252 ctermbg=233
-      hi CursorLine               ctermbg=234   cterm=none
+      hi Normal       ctermfg=252 ctermbg=232
+      hi CursorLine               ctermbg=233   cterm=none
    endif
    hi Boolean         ctermfg=135
    hi Character       ctermfg=144
